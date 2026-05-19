@@ -1,6 +1,4 @@
 <div align="center">
-
-
 # 🎓 GradeOps
 
 **AI-Powered Exam Grading & Results Management Platform for Instructors**
@@ -13,7 +11,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
 
 </div>
----
 
 
 ## Overview
@@ -21,8 +18,6 @@
 **GradeOps** is a full-stack, AI-assisted exam grading platform designed to eliminate the bottleneck of manual answer sheet evaluation in academic environments. It addresses the inefficiency and inconsistency of human grading by combining Vision-Language Model OCR with structured marking scheme evaluation to produce objective, reasoned scores in real-time.
 
 Instructors can create exams, register students, upload marking schemes (JSON or PDF), and submit scanned answer sheets (image or PDF) — the system extracts handwritten or typed text via the **Qwen2-VL-2B-OCR** model and evaluates each response against predefined expected points and keywords, returning per-question scores, matched/missing criteria, and an overall reasoning summary.
-
-Built by **Ayush Bansal**, **Lalit Deshmane**, **Krish Patel** as a self-contained grading backend with a single-page instructor dashboard.
 
 ---
 
