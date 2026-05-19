@@ -1,5 +1,5 @@
 <div align="center">
-# 🎓 GradeOps
+🎓 GradeOps
 
 **AI-Powered Exam Grading & Results Management Platform for Instructors**
 
